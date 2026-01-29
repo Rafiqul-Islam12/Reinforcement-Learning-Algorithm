@@ -8,8 +8,11 @@
   যে policy দিয়ে action নেওয়া হয়, সেই policy থেকে আলাদা policy-কে evaluate ও learn করা হয়।
 
 ---
-# ***Understanding Q-Learning***
+# ***Algorithm*** 
+<img src="https://github.com/Rafiqul-Islam12/Reinforcement-Learning-Algorithm/blob/main/Q-Learning%20Algorithm/images/img11.png" width="700">  
 
+---
+# ***Understanding Q-Learning***
 <img src="https://github.com/Rafiqul-Islam12/Reinforcement-Learning-Algorithm/blob/main/Q-Learning%20Algorithm/images/img01.png" width="700">  
 <img src="https://github.com/Rafiqul-Islam12/Reinforcement-Learning-Algorithm/blob/main/Q-Learning%20Algorithm/images/img02.png" width="700">  
 <img src="https://github.com/Rafiqul-Islam12/Reinforcement-Learning-Algorithm/blob/main/Q-Learning%20Algorithm/images/img03.png" width="700">  
