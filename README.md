@@ -98,8 +98,9 @@
 
 ---
 # ***Markov Decision Process (MDP)***  
-- ***It is a `decision making framework`.***    
-  ***যেটা Reinforcement Learning-এ use করা হয়। এখানে একটা agent থাকে, সে একটা environment-এর ভিতরে কাজ করে, action নেয়, আর reward পায়।***
+- ***It is a `decision making framework`.***  
+  ***MDP বলে দেয় problem টা কিভাবে describe করা হবে***    
+  ***যেটা Reinforcement Learning-এ use করা হয়। এখানে একটা agent থাকে, সে একটা environment-এর ভিতরে কাজ করে, action নেয়, আর reward পায়।***   
 
 ***MDP কে আমরা normally এইভাবে define করি: `(S, A, P, R, γ)`***   
 - ***`S = States`***  
