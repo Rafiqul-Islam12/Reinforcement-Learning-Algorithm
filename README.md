@@ -97,6 +97,22 @@
 - ***Actor-Critic (hybrid)***   
 
 ---
+# 📌 ***Model-based (Model-on) vs Model-free***   
+## ***Model-based***   
+- ***Agent environment model জানে বা শিখে নেয়, তারপর planning করে action নেয়।***   
+
+***অর্থাৎ agent জানে:***   
+***এই action নিলে next state কী হবে, reward কত হবে***    
+
+## ***Model-free***    
+- ***Agent environment সম্পর্কে কিছুই জানে না।***   
+
+***অর্থাৎ agent:***   
+***action নেয়***    
+***reward দেখে***   
+***trial & error দিয়ে শেখে***   
+
+---
 # ***Markov Decision Process (MDP)***  
 - ***It is a `decision making framework`.***  
   ***MDP বলে দেয় problem টা কিভাবে describe করা হবে***    
